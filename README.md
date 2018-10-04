@@ -3,3 +3,6 @@
 #kotlin for beginners
 
 #Learn #Kotlin #Edittext Opretions #Getting Values 
+[
+![Uploading 290039770.jpg…]()
+](url)
